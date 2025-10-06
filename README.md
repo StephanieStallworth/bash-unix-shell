@@ -1,11 +1,11 @@
-# Linux Courswork
-## [Bash Scripting and Shell Programming - Linux Command Line (Udemy)](https://www.udemy.com/course/bash-scripting/learn/lecture/5739678#overview)
-### Section 1: Bash Programming Course Overview and Downloads
-**1. Course Overview**
-**2. Course Downloads, Including The Scripts Used in The Course And A Cheat Sheet**
-### Section 2: Shell Scripting in a Nutshell
-**3. Section Introduction**
-**4. Shell Scripting, Part I (Shell Scripts, Shebang, Variables, Tests)** 
+# Linux Courswork  
+## [Bash Scripting and Shell Programming - Linux Command Line (Udemy)](https://www.udemy.com/course/bash-scripting/learn/lecture/5739678#overview)  
+### Section 1: Bash Programming Course Overview and Downloads  
+**1. Course Overview**  
+**2. Course Downloads, Including The Scripts Used in The Course And A Cheat Sheet**  
+### Section 2: Shell Scripting in a Nutshell  
+**3. Section Introduction**  
+**4. Shell Scripting, Part I (Shell Scripts, Shebang, Variables, Tests)**  
 **5. Shell Scripting, Part II (If, If/Else, If/Elif/Else, For Loops, Positional Parameters, Accepting User Input STDIN)** 
 **6. Practice Exercises**
 ### Section 3: Return Codes and Exit Statuses
